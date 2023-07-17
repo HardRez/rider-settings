@@ -1,0 +1,11 @@
+manjaro.mpb
+com.nasller.CodeGlancePro
+org.nik.presentation-assistant
+com.github.copilot
+nsubstitutecomplete-rider
+cognitivecomplexity-rider
+unreal-link
+Key Promoter X
+com.mallowigi
+zielu.gittoolbox
+izhangzhihao.rainbow.brackets
